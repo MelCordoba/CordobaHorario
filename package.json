@@ -1,0 +1,28 @@
+{
+  "name": "CordobaHorario",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MelCordoba/CordobaHorario.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MelCordoba/CordobaHorario/issues"
+  },
+  "homepage": "https://github.com/MelCordoba/CordobaHorario#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.24",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
